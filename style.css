@@ -39,8 +39,9 @@ aside {
 .list-secondary {
   color: #fb6d3a;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 34px;
   margin-left: 0px;
+  margin-bottom: 50px;
   padding-left: 0px;
   list-style-position: inside;
 }
@@ -93,19 +94,6 @@ h1 {
   margin-bottom: 40px;
 }
 
-.projects {
-  width: 485px;
-  margin-bottom: 51px;
-}
-
-.list-primary {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
-  color: #000000;
-  padding-left: 0px;
-  list-style-position: inside;
-}
 
 .list-primary-item {
   font-weight: 400;
@@ -115,14 +103,6 @@ h1 {
   text-decoration: none;
 }
 
-.header-primary {
-  font-weight: 700;
-  font-size: 22px;
-  line-height: 27px;
-  margin-bottom: 12px;
-  width: 600px; ;
-}
-
 .job-name {
   font-weight: 700;
   font-size: 16px;
@@ -130,27 +110,21 @@ h1 {
   width: 600px;
 }
 
-.highlight {
-  color: #fb6d3a;
-}
-
-.job-date {
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 15px;
-  color: #a8a8a8;
-}
-
-.job-list {
+.opisy {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   color: #595959;
-  padding-left: 20px;
+  padding-bottom: 20px;
 }
 
 h4 {
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
+}
+
+.link-facebook {
+  color:rgb(239, 243, 235);
+  font-size: 20px;
 }
