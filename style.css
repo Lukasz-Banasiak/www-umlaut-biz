@@ -64,17 +64,19 @@ aside {
 }
 
 main {
-  padding: 102px 88px 102px 88px;
+  padding: 40px 88px 40px 88px;
 }
 
 .main-description {
-  width: 400px;
+  width: 600px;
 }
 
-.job-title {
+
+.school-name {
   font-weight: 700;
-  font-size: 14px;
-  line-height: 17px;
+  font-size: 20px;
+  line-height: 30px
+
 }
 
 h1 {
@@ -118,12 +120,14 @@ h1 {
   font-size: 22px;
   line-height: 27px;
   margin-bottom: 12px;
+  width: 600px; ;
 }
 
 .job-name {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
+  width: 600px;
 }
 
 .highlight {
